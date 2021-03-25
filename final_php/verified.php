@@ -27,6 +27,8 @@ else if (isset($_POST['logname'])) { //เข้าสู่ระบบ
                 echo "<script>alert('Username and Passward erroneous!'); 
                 window.location='login.php'</script>";
                 exit();
+ 
         }
+        
 }
 ?>
