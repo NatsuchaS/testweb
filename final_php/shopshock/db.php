@@ -1,5 +1,5 @@
 <?php
-class Database
+class db
 {
     public $dbConn = null;
     public function connect() 
